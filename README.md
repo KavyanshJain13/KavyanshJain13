@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KavyanshJain13
-- 👀 I’m interested in AI/ML/Dl and Data Science
+- 👀 I’m interested in AI/ML/DL and Data Science
 - 🌱 I’m currently pursuing BTech in Computer Science Engineering
 - 📫 For queries or collaboration, kavyansh325@gmail.com
 
